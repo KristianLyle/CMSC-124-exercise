@@ -1,2 +1,3 @@
 # CMSC-124-exercise
-exercise for cmsc 124 lab
+I am editing the README file. Adding some more details about the project description
+
